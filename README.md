@@ -27,7 +27,6 @@ enfoque:     backend robusto, apps multiplataforma y modelos que sí se desplieg
 idiomas:     español (nativo) · inglés (A1) · alemán (básico)
 ```
 
-- 🔭 Construyo **Styluxe**, un SaaS de agendamiento para barberías y salones.
 - ⚖️ Desarrollo **SIGP** para la Oficina Jurídica de la **Contraloría Municipal de Popayán**.
 - 🔬 Investigo en IoT y aprendizaje automático aplicado en el **Semillero SEINSOFT**.
 - 🌌 Me interesan la IA aplicada, el Internet de las Cosas y la computación cuántica.
@@ -35,28 +34,6 @@ idiomas:     español (nativo) · inglés (A1) · alemán (básico)
 ---
 
 ## 🚀 En qué estoy trabajando
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✂️ Styluxe
-**SaaS de agendamiento para barberías y salones** · *fundador · backend · en desarrollo*
-
-- Backend **multi-tenant**: cada negocio y sucursal aislado del resto.
-- Autenticación con tokens de acceso y renovación.
-- Citas con varios servicios por cita y control de acceso por suscripción.
-- **~850 pruebas automatizadas** (unitarias, integración y E2E).
-- Producción en Linux sobre DigitalOcean.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚖️ SIGP — Contraloría Municipal de Popayán
 **Gestión de procesos judiciales con control de términos** · *Proyecto Social TIC*
@@ -70,10 +47,6 @@ idiomas:     español (nativo) · inglés (A1) · alemán (básico)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -149,7 +122,6 @@ idiomas:     español (nativo) · inglés (A1) · alemán (básico)
 </p>
 
 **Prácticas:**
-![Multi-tenant](https://img.shields.io/badge/Multi--tenant-111b44?style=flat-square)
 ![Testing](https://img.shields.io/badge/Pruebas_automatizadas-111b44?style=flat-square&logo=pytest&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-111b44?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC-111b44?style=flat-square)
